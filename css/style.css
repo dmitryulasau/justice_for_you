@@ -1,0 +1,51 @@
+#side-sub{
+    height: 400px;
+    width: 250px;
+    padding-top: 20px;
+    padding-bottom: 35px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-image: url('../images/nav_side_sub.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: contain;
+}
+
+.image-size{
+    size-adjust: 100px;
+}
+
+.bullet{
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+.bullet-two{
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+
+
+.bullet-three{
+    list-style: none;
+    margin: 10px;
+    padding: 5px;
+}
+
+.bullet-four{
+    list-style: none;
+    margin: 10px;
+    padding: 5px;
+}
+
+
+
+.container-fluid{
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
