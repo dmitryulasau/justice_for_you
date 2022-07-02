@@ -1,0 +1,12 @@
+.background {
+  min-height: 100%;
+  background-image: url(../images/nza_background.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 40px 420px 40px 420px;
+}
+
+.main__block {
+  background-color: #fff;
+  padding: 0 3% 1% 3%;
+}
