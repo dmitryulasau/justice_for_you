@@ -37,8 +37,6 @@
     background-size: contain;
 }
 
-
-
 .text{
     color: maroon;
 }
@@ -48,15 +46,31 @@
     width: 220px;
 }
 
-
-
-.bullet-three-three{
+.bullet-one{
     list-style: none;
     margin: 0px;
     padding: 5px;
 }
 
-.bullet-four-four{
+.bullet-two{
+    list-style: none;
+    margin: 0px;
+    padding: 5px;
+}
+
+.bullet-three{
+    list-style: none;
+    margin: 0px;
+    padding: 5px;
+}
+
+.bullet-four{
+    list-style: none;
+    margin: 0px;
+    padding: 5px;
+}
+
+.bullet-five{
     list-style: none;
     margin: 0px;
     padding: 5px;
