@@ -1,0 +1,49 @@
+.sidebar__block-background {
+  min-height: 100%;
+  background-image: url(../images/nav_side.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin-right: 30px;
+
+  color: #f8f9fa;
+  padding: 20px 20px 40px 20px;
+}
+
+.sidebar-heading {
+  border-bottom: 1px solid #f8f9fa;
+  margin-bottom: 10px;
+  font-size: 20px;
+}
+
+.p-side {
+  margin-bottom: 0;
+}
+
+.img-side {
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+.a-list:link,
+.a-list:visited {
+  text-decoration: none;
+  color: #f8f9fa;
+}
+
+.a-list:hover,
+.a-list:active {
+  text-decoration: underline;
+  color: #d2ba6f;
+}
+
+.a-list-title:link,
+.a-list-title:visited {
+  text-decoration: none;
+  color: #f8f9fa;
+}
+
+.a-list-title:hover,
+.a-list-title:active {
+  font-weight: 500;
+  color: #d2ba6f;
+}
