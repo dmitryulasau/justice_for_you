@@ -3,6 +3,8 @@
     padding-right: 30px;
     padding-bottom: 50px;
     padding-left: 80px;
+    display: flex;
+    
 }
 
 #center-column{
@@ -75,6 +77,35 @@
     padding: 5px;
 }
 
+.bullet-one-one{
+    list-style: none;
+    margin: 0px;
+    padding: 5px;
+}
+
+.bullet-two-one{
+    list-style: none;
+    margin: 0px;
+    padding: 5px;
+}
+
+.bullet-three-one{
+    list-style: none;
+    margin: 0px;
+    padding: 5px;
+}
+
+.bullet-four-one{
+    list-style: none;
+    margin: 0px;
+    padding: 5px;
+}
+
+.bullet-five-one{
+    list-style: none;
+    margin: 0px;
+    padding: 5px;
+}
 
 
 
