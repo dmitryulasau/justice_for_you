@@ -1,5 +1,5 @@
 #side-sub{
-    /* height: 350px;
+    /* height: 400px;
     width: 250px;
     padding-top: 20px;
     padding-bottom: 35px;
@@ -7,9 +7,9 @@
     padding-right: 20px; */
     background-image: url('../images/nav_side_sub.jpg');
     background-repeat: no-repeat;
-    /* background-attachment: fixed;   */
-    /* background-size: contain; */
-}
+    /* background-attachment: fixed;  
+    background-size: contain;*/
+} 
 
 .bullet{
     list-style: none;
