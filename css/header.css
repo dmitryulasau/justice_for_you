@@ -7,6 +7,7 @@
   background-color: #ced4da;
   color: #f8f9fa;
   font-weight: 600;
+  transition: 0.3s;
 }
 
 .login-button:hover {
@@ -17,4 +18,66 @@
 .logo-image {
   margin-bottom: 20px;
   margin-top: 40px;
+}
+
+/* DROPDOWN */
+.dropdown {
+  /* position: relative; */
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #d2ba6f;
+  min-width: 160px;
+  box-shadow: 0px 4px 8px 0px rgba(0, 0, 0, 0.2);
+  z-index: 1;
+  right: 0;
+  padding: 10px;
+  border-radius: 7px;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+input {
+  width: 50%;
+}
+
+input[type="email"],
+input[type="password"] {
+  width: 100%;
+  padding: 0;
+  margin: 0;
+}
+
+input[type="email"]:focus,
+input[type="password"]:focus {
+  border-color: #923530;
+  box-shadow: 0 0 6px 4px rgb(146 53 38 / 50%);
+  outline: none;
+}
+
+.btn-primary {
+  border: none;
+  background-color: var(--red);
+  font-weight: 600;
+}
+
+.btn-primary:hover {
+  border: none;
+  background-color: var(--red);
+  color: #d2ba6f;
+}
+
+form {
+  width: 180px;
+}
+
+.buttons {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
