@@ -1,15 +1,19 @@
-#side-sub{
-    /* height: 400px;
-    width: 250px;
-    padding-top: 20px;
-    padding-bottom: 35px;
-    padding-left: 20px;
-    padding-right: 20px; */ 
-    background-image: url('../images/nav_side_sub.jpg');
+.sidebar__block-background1 {
+    min-height: 45%;
+    background-image: url(../images/nav_side.jpg);
+    background-size: cover;
     background-repeat: no-repeat;
-    /* background-attachment: fixed;  
-    background-size: contain;*/
-} 
+    margin-right: 30px;
+  
+    color: #f8f9fa;
+    padding: 20px 20px 40px 20px;
+  }
+  
+  .sidebar-heading1 {
+    border-bottom: 1px solid #f8f9fa;
+    margin-bottom: 10px;
+    font-size: 20px;
+  }
 
 .bullet{
     list-style: none;
