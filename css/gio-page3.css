@@ -1,43 +1,65 @@
-
 .sidebar__block-background1 {
-    min-height: 45%;
-    background-image: url(../images/nav_side.jpg);
-    background-size: cover;
-    background-repeat: no-repeat;
-    margin-right: 30px;
-  
-    color: #f8f9fa;
-    padding: 20px 20px 40px 20px;
-  }
-  
-  .sidebar-heading1 {
-    border-bottom: 1px solid #f8f9fa;
-    margin-bottom: 10px;
-    font-size: 20px;
-  }
+  min-height: 45%;
+  background-image: url(../images/nav_side.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin-right: 30px;
 
-.bullet{
-    list-style: none;
-    margin: 0px;
-    padding: 0px;
+  color: #f8f9fa;
+  padding: 20px 20px 10px 20px;
 }
 
-.bullet-two{
-    list-style: none;
-    margin: 0px;
-    padding: 0px;
+.sidebar-heading1 {
+  border-bottom: 1px solid #f8f9fa;
+  margin-bottom: 10px;
+  font-size: 20px;
 }
 
-
-
-.bullet-three{
-    list-style: none;
-    margin: 0px;
-    padding: 5px;
+.bullet {
+  list-style: none;
+  margin: 0px;
+  padding: 0px;
 }
 
-.bullet-four{
-    list-style: none;
-    margin: 0px;
-    padding: 5px;
+.bullet-two {
+  list-style: none;
+  margin: 0px;
+  padding: 0px;
+}
+
+.bullet-three {
+  list-style: none;
+  margin: 0px;
+  padding: 5px;
+}
+
+.bullet-four {
+  list-style: none;
+  margin: 0px;
+  padding: 5px;
+}
+
+.a-list-3:link,
+.a-list-3:visited {
+  text-decoration: none;
+  color: #f8f9fa;
+}
+
+.a-list-3:hover,
+.a-list-3:active {
+  font-weight: 500;
+  color: #d2ba6f;
+}
+
+.list-3 {
+  margin-bottom: 10px;
+}
+
+.a-list-4 {
+  margin-top: 0;
+}
+
+.img-side-3 {
+  display: block;
+  width: 500px;
 }
