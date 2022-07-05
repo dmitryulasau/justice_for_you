@@ -18,8 +18,8 @@
   padding-right: 8px;
 }
 
-.scroll {
-  background-image: url(../images/nav_side.jpg);
+.newscroll {
+  background-image: url(../images/nav_side_sub.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   color: white;
