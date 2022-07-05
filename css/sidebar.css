@@ -47,3 +47,75 @@
   font-weight: 500;
   color: #d2ba6f;
 }
+
+/* PAGE 4 */
+.sidebar-list {
+  margin-bottom: 15px;
+}
+
+/* RIGHT SIDEBAR */
+.sidebar__block-background-contact {
+  min-height: 100%;
+  background-image: url(../images/other_links_background.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin-left: 10px;
+
+  color: #f8f9fa;
+  padding: 20px 20px 40px 20px;
+}
+
+.right-side-bar {
+  color: black;
+}
+
+.a-list-title-right:link,
+.a-list-title-right:visited {
+  text-decoration: none;
+  color: #923530;
+  font-weight: 700;
+}
+
+.a-list-title-right:hover,
+.a-list-title-right:active {
+  font-weight: 700;
+  color: black;
+}
+
+.title-right {
+  color: #923530;
+  margin-bottom: 30px;
+}
+
+.a-list-title-rigth {
+  font-weight: 700;
+}
+
+.image-contact {
+  width: 100%;
+  margin-bottom: 60px;
+}
+
+.left-side-bar {
+  margin-right: 10px;
+}
+
+.mail {
+  margin-top: 10px;
+}
+.mail:link,
+.mail:visited {
+  text-decoration: none;
+  color: #923530;
+  font-weight: 700;
+}
+
+.mail:hover,
+.mail:active {
+  font-weight: 700;
+  color: black;
+}
+
+.email {
+  margin-top: 10px;
+}
