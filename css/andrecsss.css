@@ -18,7 +18,7 @@
   padding-right: 8px;
 }
 
-#scroll {
+.scroll {
   background-image: url(../images/nav_side.jpg);
   background-repeat: no-repeat;
   background-size: cover;
@@ -31,6 +31,7 @@
   padding-left: 20px;
   padding-top: 20px;
 }
+
 #center {
   display: flex;
   justify-content: center;
