@@ -1,43 +1,43 @@
-#middle{       
-    padding-bottom: 5px;
-    height:auto;  
+#middle {
+  padding-bottom: 5px;
+  height: auto;
 }
 
-#bottom{
-    padding-top: 25px;
+#bottom {
+  padding-top: 25px;
 }
 
-#container{
-    overflow:auto
+#container {
+  overflow: auto;
 }
 
-#forrest{
-    width: 100%;
-    padding-right: 8px;
-    object-fit: cover;
-    padding-right: 8px;
-    }
-
-#scroll{
-    background-image: url('../images/nav_side.jpg');
-    background-repeat: no-repeat;
-    background-size: cover;
-    color: white;
-    height: 408px;
-    overflow:scroll;
-    overflow-x:hidden;
-    margin-right: 43px;
-    font-size: 20px;
-    padding-left: 20px;
-    padding-top: 20px;
+#forrest {
+  width: 100%;
+  padding-right: 8px;
+  object-fit: cover;
+  padding-right: 8px;
 }
- #center{
-    display: flex;
-    justify-content: center;
- }
 
- #address{
-    padding-left: 20px;
-    width: 269px;
-    padding-right: 0;
- }
+#scroll {
+  background-image: url(../images/nav_side.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+  height: 408px;
+  overflow: scroll;
+  overflow-x: hidden;
+  margin-right: 43px;
+  font-size: 16px;
+  padding-left: 20px;
+  padding-top: 20px;
+}
+#center {
+  display: flex;
+  justify-content: center;
+}
+
+#address {
+  padding-left: 20px;
+  width: 269px;
+  padding-right: 0;
+}
